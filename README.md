@@ -72,10 +72,6 @@ The voice conversion is performed by simulating pitch shifting to match the targ
 - Ensure the input audio files are of good quality for better cloning results.
 - The TTS model used in this project is `xtts_v2`. You may need to download or point to the correct pre-trained model if not already available.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - The TTS library used here is based on models from [TTS](https://github.com/coqui-ai/TTS).
